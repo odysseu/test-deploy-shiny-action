@@ -22,4 +22,4 @@ jobs:
           shiny_token: ${{ secrets.SHINY_TOKEN }}
           shiny_secret: ${{ secrets.SHINY_SECRET }}
           app_name: 'Population'
-          app_dir: 'populations'
+          shiny_app_path: 'populations'
