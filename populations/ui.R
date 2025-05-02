@@ -21,7 +21,7 @@ fluidPage(
             sliderInput("bins",
                         "Number of bins:",
                         min = 1,
-                        max = 10,
+                        max = 15,
                         value = 5)
         ),
 
